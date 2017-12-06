@@ -9,7 +9,7 @@ Participation can optionally be incentivised by redistributing _votingblock_ tok
 
 ### Token reward program for open source contributions
 
-  * 1st campagne: December 2019 - March 2018
-  * 2nd campagne: March 2018 - public distribution
-  * 3rd campagne: public distribution - dApp launch
+  * campagne 1: December 2017 - March 2018
+  * campagne 2: March 2018 - public distribution
+  * campagne 3: public distribution - dApp launch
   
