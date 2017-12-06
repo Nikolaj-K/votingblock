@@ -5,7 +5,7 @@ The _votingblock_ decentralized app on the NEO blockchain is the implementation 
 
 Anyone can start a poll. 
 
-Participation can optionally be incentivised by redistributing _votingblock_ token.
+Participation can optionally be incentivised by redistributing token. (Working concept. Proposal page to be opened soon.)
 
 ### Token reward program for open source contributions
 
